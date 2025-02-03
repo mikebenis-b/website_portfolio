@@ -1,0 +1,5 @@
+Streamlit==1.38.0
+Requests==2.32.3
+SoundDevice==0.5.1
+NumPy==1.26.4
+pydub==0.25.1

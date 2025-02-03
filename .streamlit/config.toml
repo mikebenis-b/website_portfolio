@@ -1,0 +1,7 @@
+[theme]
+primaryColor = "#FFD700"  # Gold Yellow
+backgroundColor = "#FFFFFF"  # White
+secondaryBackgroundColor = "#FFFACD"  # Lemon Chiffon (light yellowish shade)
+textColor = "#333333"  # Dark Gray for readability
+font = "sans serif"
+toolbarMode="minimal"
